@@ -193,5 +193,5 @@ cython_debug/
 .cursorignore
 .cursorindexingignoretest.ipynb
 test.ipynb
-./data/dataset.csv
+data/dataset.csv
 
